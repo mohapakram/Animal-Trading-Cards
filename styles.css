@@ -1,0 +1,58 @@
+/* add your CSS here */
+/* add your CSS here */
+h1{
+    background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    border-radius: 5px;
+}
+img {
+    width: 300px;
+    border-radius:5px;
+    margin: auto;
+}
+.animal-fact {
+    font-style: italic;
+    border-radius:5px;
+    margin-top: 10px;
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+  padding:5px;
+
+}
+li span {
+    font-weight: bold;
+    margin-top:3px;
+    margin-bottom: 3px;
+    background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+   border-radius:5px 0 0 5px;
+}
+
+ul {
+   list-style: none;
+}
+.items-list{
+    border-radius:5px;
+
+}
+.animal-information {
+    border-radius:5px;
+    margin-top:10px;
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+   padding:5px;
+}
+.container {
+    width:300px;
+    margin: auto;
+     border-radius: 5px;
+}
+ul{
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+  padding:0;
+}
+h3{
+    text-align: center;
+}
+.outer-container{
+    width:350px;
+    padding: 10px;
+    border-radius:10px;
+              background-image: url(https://images.pexels.com/photos/80399/clouds-sunset-sundown-sun-80399.jpeg?w=1200&h=627&fit=crop&auto=compress&cs=tinysrgb);
+}
